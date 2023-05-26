@@ -1,4 +1,6 @@
-연습
+FE 6기
+
+배웠어도 모르는게 많다
 
 echo '연습1' > index.html   :   덮어쓰기
 echo '연습1' >> index.html  :   추가하기
