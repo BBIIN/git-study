@@ -1,0 +1,4 @@
+연습
+
+echo '연습1' > index.html   :   덮어쓰기
+echo '연습1' >> index.html  :   추가하기
